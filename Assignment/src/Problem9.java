@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Assignment9 {
+public class Problem9 {
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
 		int[][] data = new int[3][3];
@@ -31,3 +31,5 @@ public class Assignment9 {
 		}
 	}
 }
+
+

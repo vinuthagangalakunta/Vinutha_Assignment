@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class Assignment6 {
+public class Problem6 {
 	public static void main(String[] args) {
 		HashMap<String, Integer> user = new HashMap<String, Integer>();
 		Scanner s = new Scanner(System.in);
@@ -32,3 +32,4 @@ public class Assignment6 {
 		}
 	}
 }
+

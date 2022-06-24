@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Assignment3 {
+public class Problem3 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 
@@ -23,5 +23,4 @@ public class Assignment3 {
 		System.out.println("Simple Interest: " + simpleInterest);
 		System.out.println("Compound Interest: " + compoundInterest);
 	}
-
 }

@@ -1,4 +1,4 @@
-public class Assignment2 {
+public class Problem2 {
 	public static void main(String[] args) {
 		for (int n = 100; n < 1000; n++) {
 			int sum = 0;
@@ -14,3 +14,4 @@ public class Assignment2 {
 		}
 	}
 }
+
