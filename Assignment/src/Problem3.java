@@ -22,5 +22,6 @@ public class Problem3 {
 		System.out.println("Time Duration: " + number);
 		System.out.println("Simple Interest: " + simpleInterest);
 		System.out.println("Compound Interest: " + compoundInterest);
+		
 	}
 }

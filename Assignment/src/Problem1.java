@@ -1,5 +1,6 @@
 import java.util.Scanner;
 //153-1+125+27
+
 public class Problem1 {
 	public static void main(String[] args) {
 		// Armstrong-if the sum of cubes of its digits is equal to number itself

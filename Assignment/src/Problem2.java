@@ -12,6 +12,7 @@ public class Problem2 {
 				System.out.println("The following is an armstrong number: " + n);
 			}
 		}
+		
 	}
 }
 
