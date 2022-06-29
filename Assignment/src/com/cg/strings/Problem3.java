@@ -27,7 +27,7 @@ public class Problem3 {
 		// matches
 		System.out.print("Return Value :");
 		System.out.println(s1
-				.matches("java string pool refers to the collection" + " of strings which are stored in heap memory"));
+				.matches("java string pool refers to the collection of strings which are stored in heap memory"));
 
 	}
 
